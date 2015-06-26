@@ -27,7 +27,7 @@ ids.each do |id|
     event.sd_link = link.attribute("href").value if link.text == "SD"
   end
   
-  event.description = page.search("section p").text
+  event.description = page.search("section p").last.text
   
   events << event
 end

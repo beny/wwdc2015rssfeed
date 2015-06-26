@@ -63,13 +63,18 @@ channel_template = <<-CHANNEL
 <?xml version="1.0"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0">
 	<channel>
-		<title>WWDC 2015 Session Videos - Apple Developer</title>
-		<description>WWDC 2015 Session Videos - Apple Developer</description>
+		<title>WWDC 2015 Session Videos</title>
+		<description>WWDC 2015 Session Videos</description>
 		<link>https://developer.apple.com/videos/wwdc/2015/</link>
 		<language>en-US</language>
 		<itunes:complete>yes</itunes:complete>
 		<itunes:author>Ondra Beneš</itunes:author>
 		<itunes:explicit>clean</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Apple Developers</itunes:name>
+    </itunes:owner>
+    <itunes:author>Apple Developers</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
 		<itunes:image href="https://devimages.apple.com.edgekey.net/videos/images/videos-wwdc2015-banner.png"/>
     ITEMS
   </channel>

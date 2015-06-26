@@ -115,8 +115,8 @@
 </item>
 <item>
 	<title>Getting Started with Multitasking on iPad in iOS 9</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>iOS 9 on iPad introduces the ability to view and interact with more than one app at a time. Discover how to update your code to take advantage of enhancements to multitasking and how to participate in Slide Over and Split View. Learn specifics about how to architect your app and understand best practices for adapting to a dynamically sized interface.</itunes:subtitle>
+	<itunes:summary>iOS 9 on iPad introduces the ability to view and interact with more than one app at a time. Discover how to update your code to take advantage of enhancements to multitasking and how to participate in Slide Over and Split View. Learn specifics about how to architect your app and understand best practices for adapting to a dynamically sized interface.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/2058z3fx76huw93/205/205_sd_getting_started_with_multitasking_on_ipad_in_ios_9.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/2058z3fx76huw93/205/205_sd_getting_started_with_multitasking_on_ipad_in_ios_9.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -139,8 +139,8 @@
 </item>
 <item>
 	<title>WatchKit In-Depth, Part 2</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Move beyond architecture changes for Watch apps and explore the different ways you can use the Digital Crown to enhance your apps. Find out how to create persistent app experiences to keep your Watch app at the ready for users and learn how to use the playback and recording APIs to add audio and video to your Watch apps.</itunes:subtitle>
+	<itunes:summary>Move beyond architecture changes for Watch apps and explore the different ways you can use the Digital Crown to enhance your apps. Find out how to create persistent app experiences to keep your Watch app at the ready for users and learn how to use the playback and recording APIs to add audio and video to your Watch apps.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/208wc2mdvock1md/208/208_sd_watchkit_indepth_part_2.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/208wc2mdvock1md/208/208_sd_watchkit_indepth_part_2.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -155,16 +155,16 @@
 </item>
 <item>
 	<title>What's New in HomeKit</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>HomeKit is Apple's framework that enables apps to easily and securely interact with HomeKit enabled accessories such as lights, locks, thermostats and more. Learn about the improvements to HomeKit, including support for new accessory types, easy ways to setup and remotely manage accessories.</itunes:subtitle>
+	<itunes:summary>HomeKit is Apple's framework that enables apps to easily and securely interact with HomeKit enabled accessories such as lights, locks, thermostats and more. Learn about the improvements to HomeKit, including support for new accessory types, easy ways to setup and remotely manage accessories.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/210oyq5peqlavb/210/210_sd_whats_new_in_homekit.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/210oyq5peqlavb/210/210_sd_whats_new_in_homekit.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Multitasking Essentials for Media-Based Apps on iPad in iOS 9</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>iOS 9 on iPad introduces the ability to view and interact with more than one app at a time. Learn advanced techniques for efficiently sharing resources and presenting media while other apps are in the foreground. Tap into the potential of Picture in Picture to allow your video content to play above other apps, and explore multitasking best practices for creating great experiences in this environment.</itunes:subtitle>
+	<itunes:summary>iOS 9 on iPad introduces the ability to view and interact with more than one app at a time. Learn advanced techniques for efficiently sharing resources and presenting media while other apps are in the foreground. Tap into the potential of Picture in Picture to allow your video content to play above other apps, and explore multitasking best practices for creating great experiences in this environment.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/211dseo3cn0bnw/211/211_sd_multitasking_essentials_for_mediabased_apps_on_ipad_in_ios_9.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/211dseo3cn0bnw/211/211_sd_multitasking_essentials_for_mediabased_apps_on_ipad_in_ios_9.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -195,8 +195,8 @@
 </item>
 <item>
 	<title>What's New in Storyboards</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Storyboards are a great way to build the user interface and flow of your application on iOS and OS X. Gain an understanding of how to effectively organize your storyboards, define segues for your interface, and easily unwind transitions. Dive into a detailed discussion of the new APIs, and hear tips on how to create great user interfaces.</itunes:subtitle>
+	<itunes:summary>Storyboards are a great way to build the user interface and flow of your application on iOS and OS X. Gain an understanding of how to effectively organize your storyboards, define segues for your interface, and easily unwind transitions. Dive into a detailed discussion of the new APIs, and hear tips on how to create great user interfaces.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/215972d0hjjcfx/215/215_sd_whats_new_in_storyboards.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/215972d0hjjcfx/215/215_sd_whats_new_in_storyboards.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -211,24 +211,24 @@
 </item>
 <item>
 	<title>Adopting New Trackpad Features</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>The new Force Touch trackpad adds a whole new dimension to user interactions. OS X 10.11 introduces system controls that support pressure behaviors. Understand how to integrate with these behaviors and support them in custom controls. See how to use the Taptic Engine to provide subtle physical feedback based on trackpad input. Hear best practices for adopting new swiping gestures.</itunes:subtitle>
+	<itunes:summary>The new Force Touch trackpad adds a whole new dimension to user interactions. OS X 10.11 introduces system controls that support pressure behaviors. Understand how to integrate with these behaviors and support them in custom controls. See how to use the Taptic Engine to provide subtle physical feedback based on trackpad input. Hear best practices for adopting new swiping gestures.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/217wu453thu1r1/217/217_sd_adopting_new_trackpad_features.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/217wu453thu1r1/217/217_sd_adopting_new_trackpad_features.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Mysteries of Auto Layout, Part 1</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Auto Layout is a powerful constraint-based layout engine that can drive complex and dynamic interfaces on both iOS and OS X.   Learn about the new UIStackView, now your first stop for interfaces built with Auto Layout. See how to build self-sizing views using Auto Layout, and gain critical insights into the inner workings of Auto Layout.</itunes:subtitle>
+	<itunes:summary>Auto Layout is a powerful constraint-based layout engine that can drive complex and dynamic interfaces on both iOS and OS X.   Learn about the new UIStackView, now your first stop for interfaces built with Auto Layout. See how to build self-sizing views using Auto Layout, and gain critical insights into the inner workings of Auto Layout.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/2187le7kpyhdff/218/218_sd_mysteries_of_auto_layout_part_1.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/2187le7kpyhdff/218/218_sd_mysteries_of_auto_layout_part_1.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Mysteries of Auto Layout, Part 2</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Continue your pursuit of Auto Layout mastery. Gain high level insight into how Auto Layout works, and strategies for debugging layout issues. Learn how to use new APIs for constraint creation and layout guides to build more complex layouts.</itunes:subtitle>
+	<itunes:summary>Continue your pursuit of Auto Layout mastery. Gain high level insight into how Auto Layout works, and strategies for debugging layout issues. Learn how to use new APIs for constraint creation and layout guides to build more complex layouts.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/219u3bqgvsz2g/219/219_sd_mysteries_of_auto_layout_part_2.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/219u3bqgvsz2g/219/219_sd_mysteries_of_auto_layout_part_2.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -243,8 +243,8 @@
 </item>
 <item>
 	<title>Improving the Full Screen Window Experience</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Full screen windows enable people to focus on the task at hand by removing extra system UI and deferring to more of the content they care about. OS X 10.11 adds new flexibility to how these full screen windows can be configured and controlled. Hear from the experts how to get your Mac app ready to take advantage of this new functionality. Learn key strategies to making your window content be adaptive depending on the space available.</itunes:subtitle>
+	<itunes:summary>Full screen windows enable people to focus on the task at hand by removing extra system UI and deferring to more of the content they care about. OS X 10.11 adds new flexibility to how these full screen windows can be configured and controlled. Hear from the experts how to get your Mac app ready to take advantage of this new functionality. Learn key strategies to making your window content be adaptive depending on the space available.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/22160ycymy0qg/221/221_sd_improving_the_full_screen_window_experience.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/22160ycymy0qg/221/221_sd_improving_the_full_screen_window_experience.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -275,16 +275,16 @@
 </item>
 <item>
 	<title>What's New in NSCollectionView</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>NSCollectionView has been displaying grids of views for many years.  OS X 10.11 brings a major update to the capabilities of NSCollectionView.  Much of the design of UICollectionView in iOS is now available for OS X apps.  Understand the details of the enhancements and how you can harness them in your apps.</itunes:subtitle>
+	<itunes:summary>NSCollectionView has been displaying grids of views for many years.  OS X 10.11 brings a major update to the capabilities of NSCollectionView.  Much of the design of UICollectionView in iOS is now available for OS X apps.  Understand the details of the enhancements and how you can harness them in your apps.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/225629tzulwe0/225/225_sd_whats_new_in_nscollectionview.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/225629tzulwe0/225/225_sd_whats_new_in_nscollectionview.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Advanced NSOperations</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Operations are a flexible way to model your app's business logic, but they can do so much more. See how NSOperation forms the heart of the WWDC app, and how using features like dependencies, readiness, and composition allow you to quickly and easily build dynamic and complex apps.</itunes:subtitle>
+	<itunes:summary>Operations are a flexible way to model your app's business logic, but they can do so much more. See how NSOperation forms the heart of the WWDC app, and how using features like dependencies, readiness, and composition allow you to quickly and easily build dynamic and complex apps.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/2267p2ni281ba/226/226_sd_advanced_nsoperations.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/2267p2ni281ba/226/226_sd_advanced_nsoperations.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -307,8 +307,8 @@
 </item>
 <item>
 	<title>What's New in UIKit Dynamics and Visual Effects</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Dynamic interfaces create fluid and rich interactions. Hear about new dynamic behaviors that have been added in UIKit and how to take advantage of them in your applications. Gain a practical understanding of how to integrate dynamics with AutoLayout. Learn about enhancements to UI Kit Visual Effects.</itunes:subtitle>
+	<itunes:summary>Dynamic interfaces create fluid and rich interactions. Hear about new dynamic behaviors that have been added in UIKit and how to take advantage of them in your applications. Gain a practical understanding of how to integrate dynamics with AutoLayout. Learn about enhancements to UI Kit Visual Effects.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/229fksrj39nd/229/229_sd_whats_new_in_uikit_dynamics_and_visual_effects.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/229fksrj39nd/229/229_sd_whats_new_in_uikit_dynamics_and_visual_effects.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -331,8 +331,8 @@
 </item>
 <item>
 	<title>Best Practices for Progress Reporting</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>NSProgress lets you easily and accurately report the progress of work in your app. Understand the concepts behind progress reporting and how to design code that accurately and efficiently reports its progress. Gain specific insights on how to receive progress updates from framework APIs, fold that into your own progress reporting, and show that progress in your app. Hear from the experts about best practices and how to master the NSProgress APIs.</itunes:subtitle>
+	<itunes:summary>NSProgress lets you easily and accurately report the progress of work in your app. Understand the concepts behind progress reporting and how to design code that accurately and efficiently reports its progress. Gain specific insights on how to receive progress updates from framework APIs, fold that into your own progress reporting, and show that progress in your app. Hear from the experts about best practices and how to master the NSProgress APIs.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/232f1zopzycv/232/232_sd_best_practices_for_progress_reporting.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/232f1zopzycv/232/232_sd_best_practices_for_progress_reporting.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -347,8 +347,8 @@
 </item>
 <item>
 	<title>Building Document Based Apps</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>UIDocument is a robust way to model user-generated content in your app. See how to easily integrate your app's documents with iCloud, file extensions, and document browsers. Learn how to build a document-based app from the ground up.</itunes:subtitle>
+	<itunes:summary>UIDocument is a robust way to model user-generated content in your app. See how to easily integrate your app's documents with iCloud, file extensions, and document browsers. Learn how to build a document-based app from the ground up.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/234reaz1byqc/234/234_sd_building_document_based_apps.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/234reaz1byqc/234/234_sd_building_document_based_apps.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -371,8 +371,8 @@
 </item>
 <item>
 	<title>Getting the Most out of App Analytics</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>App Analytics is the powerful new tool inside iTunes Connect. Get a walk through of the metrics related to user engagement, marketing campaigns, monetization and more. Gain valuable insights from data that only Apple provides, so you can build better iOS apps and a more informed app business.</itunes:subtitle>
+	<itunes:summary>App Analytics is the powerful new tool inside iTunes Connect. Get a walk through of the metrics related to user engagement, marketing campaigns, monetization and more. Gain valuable insights from data that only Apple provides, so you can build better iOS apps and a more informed app business.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/303qzm09e7/303/303_sd_getting_the_most_out_of_app_analytics.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/303qzm09e7/303/303_sd_getting_the_most_out_of_app_analytics.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -427,8 +427,8 @@
 </item>
 <item>
 	<title>Authoring Rich Playgrounds</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Learn about the new features in Xcode playgrounds such as inline results, auxiliary sources and resources, multiple pages, and markup for formatted text. Find out how to explore programming problems in a playground, and create engaging experiences for teaching and learning.</itunes:subtitle>
+	<itunes:summary>Learn about the new features in Xcode playgrounds such as inline results, auxiliary sources and resources, multiple pages, and markup for formatted text. Find out how to explore programming problems in a playground, and create engaging experiences for teaching and learning.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/405t69ymgwkmfzc9/405/405_sd_authoring_rich_playgrounds.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/405t69ymgwkmfzc9/405/405_sd_authoring_rich_playgrounds.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -451,8 +451,8 @@
 </item>
 <item>
 	<title>Protocol-Oriented Programming in Swift</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>At the heart of Swift's design are two incredibly powerful ideas: protocol-oriented programming and first class value semantics. Each of these concepts benefit predictability, performance, and productivity, but together they can change the way we think about programming. Find out how you can apply these ideas to improve the code you write.</itunes:subtitle>
+	<itunes:summary>At the heart of Swift's design are two incredibly powerful ideas: protocol-oriented programming and first class value semantics. Each of these concepts benefit predictability, performance, and productivity, but together they can change the way we think about programming. Find out how you can apply these ideas to improve the code you write.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/408509vyudbqvts/408/408_sd_protocoloriented_programming_in_swift.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/408509vyudbqvts/408/408_sd_protocoloriented_programming_in_swift.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -475,8 +475,8 @@
 </item>
 <item>
 	<title>Swift in Practice</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Learn how Swift can help you define away some common pitfalls in app development, allowing your apps to benefit from safer runtime behavior while enjoying strong guarantees provided by Swift at compile-time. Hear about how API availability checking in Swift allows you to easily take advantage of new APIs while guaranteeing safe deployment to earlier OS releases. See how enumerations and protocols can help not only maintain compile-time invariants between your app's code and assets but also reduce boilerplate.</itunes:subtitle>
+	<itunes:summary>Learn how Swift can help you define away some common pitfalls in app development, allowing your apps to benefit from safer runtime behavior while enjoying strong guarantees provided by Swift at compile-time. Hear about how API availability checking in Swift allows you to easily take advantage of new APIs while guaranteeing safe deployment to earlier OS releases. See how enumerations and protocols can help not only maintain compile-time invariants between your app's code and assets but also reduce boilerplate.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/4119flfsnsgmlfy/411/411_sd_swift_in_practice.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/4119flfsnsgmlfy/411/411_sd_swift_in_practice.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -507,8 +507,8 @@
 </item>
 <item>
 	<title>What's New in Web Development in WebKit and Safari</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Learn about exciting new features in WebKit and Safari that will help you make your content feel alive. See compelling new interactions made possible by the Force Touch trackpad and enhanced scrolling support. Expand your design toolkit with high performance filters for stunning image and backdrop effects, and embrace the connected living room with updated AirPlay support.</itunes:subtitle>
+	<itunes:summary>Learn about exciting new features in WebKit and Safari that will help you make your content feel alive. See compelling new interactions made possible by the Force Touch trackpad and enhanced scrolling support. Expand your design toolkit with high performance filters for stunning image and backdrop effects, and embrace the connected living room with updated AirPlay support.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/501g8vwlgg2/501/501_sd_whats_new_in_web_development_in_webkit_and_safari.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/501g8vwlgg2/501/501_sd_whats_new_in_web_development_in_webkit_and_safari.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -547,8 +547,8 @@
 </item>
 <item>
 	<title>Editing Movies in AV Foundation</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Learn how to use the new AVMutableMovie class to modify media files and simplify your editing workflows. See how to support segment-based editing and discover the power of sample reference movies.</itunes:subtitle>
+	<itunes:summary>Learn how to use the new AVMutableMovie class to modify media files and simplify your editing workflows. See how to support segment-based editing and discover the power of sample reference movies.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/5062qehwhs/506/506_sd_editing_movies_in_av_foundation.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/5062qehwhs/506/506_sd_editing_movies_in_av_foundation.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -563,8 +563,8 @@
 </item>
 <item>
 	<title>Audio Unit Extensions</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Learn about using Audio Unit Extensions to provide your App with sophisticated audio manipulation and processing capabilities. Explore the architecture and  fundamentals of an App that uses Audio Unit Extensions, and how your app can benefit from their power.</itunes:subtitle>
+	<itunes:summary>Learn about using Audio Unit Extensions to provide your App with sophisticated audio manipulation and processing capabilities. Explore the architecture and  fundamentals of an App that uses Audio Unit Extensions, and how your app can benefit from their power.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/508691kyzp/508/508_sd_audio_unit_extensions.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/508691kyzp/508/508_sd_audio_unit_extensions.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -611,48 +611,48 @@
 </item>
 <item>
 	<title>What's New in SpriteKit</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>SpriteKit provides everything you'll need to build 2D games with high-performance graphics and engaging gameplay. Check out new APIs for managing a virtual camera and delivering spatial audio. See the all-new timeline-based Actions editor built right into Xcode, and learn about deep integration with Metal, SceneKit, GameplayKit, and more.</itunes:subtitle>
+	<itunes:summary>SpriteKit provides everything you'll need to build 2D games with high-performance graphics and engaging gameplay. Check out new APIs for managing a virtual camera and delivering spatial audio. See the all-new timeline-based Actions editor built right into Xcode, and learn about deep integration with Metal, SceneKit, GameplayKit, and more.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/604gq12qghmv39znb/604/604_sd_whats_new_in_spritekit.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/604gq12qghmv39znb/604/604_sd_whats_new_in_spritekit.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Going Social with ReplayKit and Game Center</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>ReplayKit provides an easy-to-use framework that lets players record their gameplay — amazing plays, great victories, or solutions to tough challenges — and share video with other players and viewers online. Get introduced to the ReplayKit framework and see how to enable its capability for sharing game video and audio in your games and other apps. Then get the latest news about Game Center, Apple's social gaming network. Learn about the new model for pre-release testing with Game Center and enhancements for multiplayer games.</itunes:subtitle>
+	<itunes:summary>ReplayKit provides an easy-to-use framework that lets players record their gameplay — amazing plays, great victories, or solutions to tough challenges — and share video with other players and viewers online. Get introduced to the ReplayKit framework and see how to enable its capability for sharing game video and audio in your games and other apps. Then get the latest news about Game Center, Apple's social gaming network. Learn about the new model for pre-release testing with Game Center and enhancements for multiplayer games.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/6053hq2fz0ebo0lm/605/605_sd_going_social_with_replaykit_and_game_center.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/6053hq2fz0ebo0lm/605/605_sd_going_social_with_replaykit_and_game_center.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Enhancements to SceneKit</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>SceneKit is a high-level graphics framework that helps you create 3D animated scenes and effects in your apps. See how to take advantage of the new capabilities and performance gains enabled by SceneKit's new Metal-based renderer. Check out the innovative Scene Editor, enabling you to build game levels and other scenes directly within Xcode. Learn about new features for realistic shading, enhancements for physics, and dynamic spatial audio.</itunes:subtitle>
+	<itunes:summary>SceneKit is a high-level graphics framework that helps you create 3D animated scenes and effects in your apps. See how to take advantage of the new capabilities and performance gains enabled by SceneKit's new Metal-based renderer. Check out the innovative Scene Editor, enabling you to build game levels and other scenes directly within Xcode. Learn about new features for realistic shading, enhancements for physics, and dynamic spatial audio.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/606ui2ppsvalj4nn/606/606_sd_enhancements_to_scenekit.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/606ui2ppsvalj4nn/606/606_sd_enhancements_to_scenekit.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>What's New in Metal, Part 2</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Your app can be ready to harness the power of Metal starting with just a few lines of code. Get introduced to the new MetalKit framework and learn its simple API for model and texture loading, animation control, and other common tasks. Plug into Metal Performance Shaders and access a powerful library of image-processing operations tuned for Apple hardware.</itunes:subtitle>
+	<itunes:summary>Your app can be ready to harness the power of Metal starting with just a few lines of code. Get introduced to the new MetalKit framework and learn its simple API for model and texture loading, animation control, and other common tasks. Plug into Metal Performance Shaders and access a powerful library of image-processing operations tuned for Apple hardware.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/607g5z16fpl7pzgi/607/607_sd_whats_new_in_metal_part_2.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/607g5z16fpl7pzgi/607/607_sd_whats_new_in_metal_part_2.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Introducing GameplayKit</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>GameplayKit provides a collection of essential tools and techniques used to implement gameplay logic. Get introduced to the GameplayKit framework and see how to put its capabilities to work in your own titles. Learn about managing state machines, controlling game entities, and implementing rule systems. Dive into its built-in tools for randomization, pathfinding, and advanced simulation.</itunes:subtitle>
+	<itunes:summary>GameplayKit provides a collection of essential tools and techniques used to implement gameplay logic. Get introduced to the GameplayKit framework and see how to put its capabilities to work in your own titles. Learn about managing state machines, controlling game entities, and implementing rule systems. Dive into its built-in tools for randomization, pathfinding, and advanced simulation.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/608rpwq1ltvg5nmk/608/608_sd_introducing_gameplaykit.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/608rpwq1ltvg5nmk/608/608_sd_introducing_gameplaykit.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Deeper into GameplayKit with DemoBots</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Dive into the tools and technologies used to construct the DemoBots developer sample. Gain a practical understanding of how DemoBots implements its gameplay logic with GameplayKit and visuals using SpriteKit.  See how the sample integrates On Demand Resources and other system services.</itunes:subtitle>
+	<itunes:summary>Dive into the tools and technologies used to construct the DemoBots developer sample. Gain a practical understanding of how DemoBots implements its gameplay logic with GameplayKit and visuals using SpriteKit.  See how the sample integrates On Demand Resources and other system services.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/609pzlyunriyjupp/609/609_sd_deeper_into_gameplaykit_with_demobots.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/609pzlyunriyjupp/609/609_sd_deeper_into_gameplaykit_with_demobots.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -675,8 +675,8 @@
 </item>
 <item>
 	<title>Apple Pay Within Apps</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Apple Pay is the easy, secure, and private way to pay for physical goods and services within apps on iPhone 6, iPad Air 2, and iPad mini 3. Find out how you can increase conversion rates in your checkout experience by integrating with Apple Pay APIs. And learn more about what's new with Apple Pay within apps in iOS 9.</itunes:subtitle>
+	<itunes:summary>Apple Pay is the easy, secure, and private way to pay for physical goods and services within apps on iPhone 6, iPad Air 2, and iPad mini 3. Find out how you can increase conversion rates in your checkout experience by integrating with Apple Pay APIs. And learn more about what's new with Apple Pay within apps in iOS 9.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/702lp563ezbr/702/702_sd_apple_pay_within_apps.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/702lp563ezbr/702/702_sd_apple_pay_within_apps.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -699,16 +699,16 @@
 </item>
 <item>
 	<title>What's New in Core Motion</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>See what's new in Core Motion. Learn how your application can take advantage of the motion sensors on iOS devices. Walk through new features of the pedometer and learn how to use the altimeter to take your app to the next level. Get personal with motion APIs and sensor data on the Apple Watch. Run through a demo that uses motion-context awareness to make an application feel smarter!</itunes:subtitle>
+	<itunes:summary>See what's new in Core Motion. Learn how your application can take advantage of the motion sensors on iOS devices. Walk through new features of the pedometer and learn how to use the altimeter to take your app to the next level. Get personal with motion APIs and sensor data on the Apple Watch. Run through a demo that uses motion-context awareness to make an application feel smarter!</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/705qrxhfxo0/705/705_sd_whats_new_in_core_motion.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/705qrxhfxo0/705/705_sd_whats_new_in_core_motion.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Security and Your Apps</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Your reputation depends on protecting your users' data. Do this by taking advantage of the Security frameworks built into iOS, OS X and watchOS. Find out about new developments in Security and learn the best practices to develop secure apps and protect your users' data.</itunes:subtitle>
+	<itunes:summary>Your reputation depends on protecting your users' data. Do this by taking advantage of the Security frameworks built into iOS, OS X and watchOS. Find out about new developments in Security and learn the best practices to develop secure apps and protect your users' data.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/706nu20qkag/706/706_sd_security_and_your_apps.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/706nu20qkag/706/706_sd_security_and_your_apps.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -739,8 +739,8 @@
 </item>
 <item>
 	<title>CloudKit JS and Web Services</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>CloudKit.js is the new library that provides web access to your app data stored in iCloud. Explore the new web service APIs and learn how to extend your iOS or OS X apps to the web using CloudKit.</itunes:subtitle>
+	<itunes:summary>CloudKit.js is the new library that provides web access to your app data stored in iCloud. Explore the new web service APIs and learn how to extend your iOS or OS X apps to the web using CloudKit.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/710jle9eakx/710/710_sd_cloudkit_js_and_web_services.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/710jle9eakx/710/710_sd_cloudkit_js_and_web_services.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -755,8 +755,8 @@
 </item>
 <item>
 	<title>Low Energy, High Performance: Compression and Accelerate</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>The Accelerate framework gives you fast, energy efficient signal and image processing and linear algebra libraries. Learn about a new library, dedicated to high performance compression. simd.h, introduced in iOS 8 and OS X 10.10, is the unified 2d and 3d math library for graphics and games. Find out how you can use simd.h and what's new in iOS 9 and OS X 10.11.</itunes:subtitle>
+	<itunes:summary>The Accelerate framework gives you fast, energy efficient signal and image processing and linear algebra libraries. Learn about a new library, dedicated to high performance compression. simd.h, introduced in iOS 8 and OS X 10.10, is the unified 2d and 3d math library for graphics and games. Find out how you can use simd.h and what's new in iOS 9 and OS X 10.11.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/7125ovmdf36/712/712_sd_low_energy_high_performance_compression_and_accelerate.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/7125ovmdf36/712/712_sd_low_energy_high_performance_compression_and_accelerate.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -771,8 +771,8 @@
 </item>
 <item>
 	<title>What's New in Core Location</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Learn what's new in Core Location. Discover how to use Core Location with Apple Watch, and how to make the best use of location services to develop powerful and compelling apps.</itunes:subtitle>
+	<itunes:summary>Learn what's new in Core Location. Discover how to use Core Location with Apple Watch, and how to make the best use of location services to develop powerful and compelling apps.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/714tqy593v/714/714_sd_whats_new_in_core_location.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/714tqy593v/714/714_sd_whats_new_in_core_location.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
@@ -835,8 +835,8 @@
 </item>
 <item>
 	<title>Designing with Animation</title>
-	<itunes:subtitle>Sample Code</itunes:subtitle>
-	<itunes:summary>Sample Code</itunes:summary>
+	<itunes:subtitle>Animation is a powerful tool for creating a delightful and intuitive app experience. We will show you how to get started with animations, how to make them effective for your user interface, and how to save time coding by building animations into interactive prototypes.</itunes:subtitle>
+	<itunes:summary>Animation is a powerful tool for creating a delightful and intuitive app experience. We will show you how to get started with animations, how to make them effective for your user interface, and how to save time coding by building animations into interactive prototypes.</itunes:summary>
 	<enclosure url="http://devstreaming.apple.com/videos/wwdc/2015/803q4kw6eqia7ssp17/803/803_sd_designing_with_animation.mp4?dl=1" type="video/quicktime"/>
 	<guid>http://devstreaming.apple.com/videos/wwdc/2015/803q4kw6eqia7ssp17/803/803_sd_designing_with_animation.mp4?dl=1</guid>
 	<pubDate>Tue, 09 Jun 2015 10:00:00 +0000</pubDate>
